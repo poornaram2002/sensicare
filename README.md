@@ -28,7 +28,7 @@ Onboarding
 Posture detection initial setup🧍‍♂️
 The app first needs to understand what a good posture is and what a bad posture is. For that, you’ll need to click at least 10 pictures for both cases. The app will learn from those images what a correct and incorrect posture is. After which, at regular intervals, the app will be able to check your posture and further inform you if it is not correct.
 
-image.png
+
 
 Dashboard 🏠
 The dashboard displays the countdown timer. You can start and stop it whenever you want. You can opt to select only a few options to receive notifications for between back care, eye care, and ear care. Additionally, the app has a sweet cartoon creator whose mood will depend on how effectively you use this app. Dashboard
@@ -41,7 +41,7 @@ Notification reminders
 Analysis📊
 SensiCare will perform an analysis of your habits and visualize them through different charts. For back care, a pie chart is used to visualize how many times you are found sitting in good and bad posture. For eye care, a line chart is used to depict how many times a day you follow the exercise. For ear care, a bar graph is used to depict the daily usage of earphones.
 
-ezgif.com-gif-maker (5).gif
+
 
 Technologies and Tools used🛠
 React JS
